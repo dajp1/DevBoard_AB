@@ -1,0 +1,12 @@
+# Ignore build outputs
+Debug/
+Release/
+
+# Ignore personal IDE setup and debugger launches
+.settings/
+*.launch
+
+# Ignore CubeMX backup/temp files
+MDK-ARM/
+EWARM/
+.mxproject
